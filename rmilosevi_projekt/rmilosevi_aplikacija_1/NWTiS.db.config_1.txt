@@ -1,0 +1,2 @@
+mreznaVrata=8000
+brojRadnika=10

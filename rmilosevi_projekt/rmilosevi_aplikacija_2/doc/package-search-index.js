@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.foi.nwtis.podaci"},{"l":"org.foi.nwtis.rmilosevi.aplikacija_2.filteri"},{"l":"org.foi.nwtis.rmilosevi.aplikacija_2.posluzitelji"},{"l":"org.foi.nwtis.rmilosevi.aplikacija_2.rest"},{"l":"org.foi.nwtis.rmilosevi.aplikacija_2.slusaci"}];updateSearchResults();

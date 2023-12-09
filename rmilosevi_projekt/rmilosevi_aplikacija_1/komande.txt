@@ -1,0 +1,6 @@
+cd
+cd rmilosevi/rmilosevi-projekt/rmilosevi_aplikacija_1
+java -cp target/rmilosevi_aplikacija_1-1.0.0.jar org.foi.nwtis.rmilosevi.aplikacija_1.PokretacPosluzitelja NWTiS.db.config_1.txt
+
+java -cp rmilosevi/rmilosevi-projekt/rmilosevi_aplikacija_1/target/rmilosevi_aplikacija_1-1.0.0.jar org.foi.nwtis.rmilosevi.zadaca_1.GlavniKlijent
+

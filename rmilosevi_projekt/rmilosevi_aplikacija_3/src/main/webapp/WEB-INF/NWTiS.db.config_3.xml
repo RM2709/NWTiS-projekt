@@ -1,0 +1,12 @@
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="ciklus.trajanje">180</entry>
+	<entry key="preuzimanje.od">01.12.2022</entry>
+	<entry key="preuzimanje.do">13.01.2023</entry>
+	<entry key="OpenSkyNetwork.korisnik">rmilosevi@student.foi.hr</entry>
+	<entry key="OpenSkyNetwork.lozinka">rmilosevi</entry>
+	<entry key="OpenWeatherMap.apikey">da97924bcb499c0107c919f3246c9ccf</entry>
+	<entry key="LocationIQ.apikey">pk.f82e44ccad7260846507bfd240b3de42</entry>
+	<entry key="mreznaVrata">8000</entry>
+	<entry key="adresa">localhost</entry>
+</properties>
